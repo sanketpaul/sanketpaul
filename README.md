@@ -98,7 +98,7 @@ Languages and Tools:
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
     </a>
    
-    </a>
+    
 ![sanket](https://user-images.githubusercontent.com/96777957/186666291-caa17499-ed89-45b5-b43b-e20a7f099cb4.gif)
 
 ![](https://activity-graph.herokuapp.com/graph?username=sanketpaul&theme=react-dark&area=true)
